@@ -42,3 +42,5 @@ jspm_packages
 app
 src
 
+#Mac
+.DS_Store
